@@ -196,7 +196,7 @@
         - 5b5b) Если неисправен один элемент с одной цветной стороной, то головоломка считается собранной.
         - 5b5c) Если неисправно более одного элемента с одной цветной стороной, то головоломка считается несобранной (DNF).
         - 5b5d) Если неисправен один или несколько элементов с более чем одной цветной стороной, то головоломка считается несобранной (DNF).
-        - 5b5e) [5b5c](https://www.worldcubeassociation.org/regulations/translations/russian/#5b5c) и [5b5d](https://www.worldcubeassociation.org/regulations/translations/russian/#5b5d) замещают [5b5a](https://www.worldcubeassociation.org/regulations/translations/russian/#5b5a) и [5b5b](https://www.worldcubeassociation.org/regulations/translations/russian/#5b5b).
+        - 5b5e) [5b5c](regulations:regulation:5b5c) и [5b5d](regulations:regulation:5b5d) замещают [5b5a](regulations:regulation:5b5a) и [5b5b](regulations:regulation:5b5b).
 
 
 ## <article-7><environment><environment> Статья 7: Окружающая обстановка
